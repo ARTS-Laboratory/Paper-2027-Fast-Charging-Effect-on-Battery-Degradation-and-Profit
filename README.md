@@ -6,7 +6,11 @@ This repository contains example analysis code supporting the study "Battery Deg
 The code demonstrates the core workflow used in the paper, including mission analysis, degradation modeling, and basic economic evaluation. It is not a full reproduction of the study, but a minimal example to help new researchers quickly understand and build on the methods.
 
 ## Notes
-Related models and datasets are maintained in separate repositories.
+Related models and datasets are maintained in separate repositories as listed below.
+1. https://github.com/ARTS-Laboratory/dataset-cycling-with-strain-monitoring-for-samsung-30Q-cell
+1. https://github.com/ARTS-Laboratory/Realistic-Southeastern-Flight-Operations-Data
+1. https://github.com/ARTS-Laboratory/electric-light-utility-aircraft-multiphysics-model
+
 
 
 ## Licensing and Citation
