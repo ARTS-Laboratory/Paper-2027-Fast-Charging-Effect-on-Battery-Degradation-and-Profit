@@ -1,6 +1,8 @@
-# Paper 2027 Battery Degradation and Replacement Cost Impacts on Profitability
+# Paper 2027 Fast Charging Effect on Battery Degradation and Profit
 
-This repository contains example analysis code supporting the study "Battery Degradation and Replacement Cost Impacts on Profitability in Electric Light Utility Aircraft using a Multiphysics Modeling Approach".
+
+
+This repository contains example analysis code supporting the study "Fast Charging Effect on Battery Degradation, Replacement Cost, and Operating Profit in Electric Light Utility Aircraft using a Multiphysics Modeling Approach".
 
 ## Overview
 The code demonstrates the core workflow used in the paper, including mission analysis, degradation modeling, and basic economic evaluation. It is not a full reproduction of the study, but a minimal example to help new researchers quickly understand and build on the methods.
@@ -25,9 +27,9 @@ Cite this as:
 @Misc{ARTSLabPaper2027Battery,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {Paper 2027 Battery Degradation and Replacement Cost Impacts on Profitability},    
+  title  = {Paper 2027 Fast Charging Effect on Battery Degradation and Profit},    
   groups = {ARTS-Lab},    
-  url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/ARTS-Laboratory/Paper-2027-Battery-Degradation-and-Replacement-Cost-Impacts-on-Profitability},   
+  url    = {https://github.com/ARTS-Laboratory/ARTS-Laboratory/ARTS-Laboratory/Paper-2027-Fast-Charging-Effect-on-Battery-Degradation-and-Profit},   
 }
 
 <p align="center">
